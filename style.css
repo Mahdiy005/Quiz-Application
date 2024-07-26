@@ -1,0 +1,171 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  font-family: "Oswald", sans-serif;
+}
+
+.quiz-app {
+  width: 800px;
+  background: #f9f9f9;
+  padding: 15px;
+  margin: 20px auto;
+}
+.quiz-app .quiz-info {
+  display: flex;
+  justify-content: space-between;
+  background: #fff;
+  padding: 20px;
+}
+
+.quiz-app .quiz-info  span{
+  color:  gray;
+}
+
+.quiz-app .quiz-area {
+  padding: 20px;
+  background: #fff;
+  margin: 10px 0;
+}
+.quiz-app .quiz-area h2 {
+  margin: 0;
+}
+.quiz-app .answer-area {
+  background: #fff;
+  padding: 20px;
+  margin-top: -9px;
+}
+.quiz-app .answer-area .answer {
+  /*margin-bottom: 10px;
+  */padding: 10px;
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+  background-color: #f9f9f9;
+  margin-top: 1px;
+  position: relative;
+
+}
+
+.quiz-app .answer-area .answer:hover {
+  background-color: #eee;
+}
+.quiz-app .answer-area .answer input:checked + label {
+  color: gray;
+}
+.quiz-app .answer-area .answer input {
+  display: none;
+}
+.quiz-app .answer-area .answer label {
+  cursor: pointer;
+  font-weight: bold;
+  margin-left: 25px;
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+}
+.quiz-app .answer-area .answer label::before {
+  content: '';
+  position: absolute;
+  left: 13px;
+  width: 13px;
+  height: 13px;
+  background: gray;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 50%;
+  transition: 0.4s;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -ms-transition: 0.4s;
+  -o-transition: 0.4s;
+}
+.quiz-app .answer-area .answer label::after {
+  content: '';
+    position: absolute;
+    left: 10px;
+    width: 15px;
+    height: 15px;
+    background: white;
+    border: 2px solid gray;
+    top: 50%;
+    transform: translateY(-50%);
+    border-radius: 50%;
+}
+.quiz-app .answer-area .answer input:checked + label::before {
+  z-index: 1;
+}
+.quiz-app .submit-ans {
+  border: none;
+  padding: 12px 30px;
+  background: blueviolet;
+  font-size: 19px;
+  color: white;
+  font-weight: bold;
+  border-radius: 6px;
+  margin: 10px auto;
+  width: fit-content;
+  margin: 10px auto;
+  display: block;
+  cursor: pointer;
+}
+
+/* relate to js */
+button:disabled {
+  pointer-events: none;
+  cursor: no-drop !important;
+  opacity: 0.6;
+}
+.quiz-app .bullets {
+text-align: center;
+}
+
+.quiz-app .bullets .spans span {
+  width: 20px;
+  height: 20px;
+  background: gray;
+  /*padding: 15px;
+  */display: inline-block;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  margin-left: 5px;
+}
+.quiz-app .bullets .spans span.active {
+  border: 3px solid black;
+  animation: current-Q linear infinite 1s;
+  -webkit-animation: current-Q linear infinite 1s;
+}
+.quiz-app .bullets .spans .false {
+  background-color: red !important;
+}
+
+@keyframes current-Q {
+  0%, 100% {
+    background-color: white;
+  } 50% {
+    background-color: gray;
+  }
+}
+
+
+.results {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 25px;
+
+}
+
+.results span:first-of-type {
+  font-size: 35px;
+  color: gray;
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-weight: 400;
+}

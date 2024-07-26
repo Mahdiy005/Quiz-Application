@@ -1,0 +1,492 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answers": [
+            "Paris",
+            "London",
+            "Berlin",
+            "Madrid"
+        ],
+        "correct_answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correct_answer": "Mars"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "answers": [
+            "Harper Lee",
+            "J.K. Rowling",
+            "Ernest Hemingway",
+            "Mark Twain"
+        ],
+        "correct_answer": "Harper Lee"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "answers": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "correct_answer": "Pacific Ocean"
+    },
+    {
+        "question": "What is the square root of 64?",
+        "answers": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correct_answer": "8"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "answers": [
+            "Oxygen",
+            "Gold",
+            "Osmium",
+            "Oxide"
+        ],
+        "correct_answer": "Oxygen"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "answers": [
+            "K2",
+            "Mount Kilimanjaro",
+            "Mount Everest",
+            "Mount Fuji"
+        ],
+        "correct_answer": "Mount Everest"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "answers": [
+            "Leonardo da Vinci",
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Claude Monet"
+        ],
+        "correct_answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "answers": [
+            "Seoul",
+            "Beijing",
+            "Tokyo",
+            "Bangkok"
+        ],
+        "correct_answer": "Tokyo"
+    },
+    {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "answers": [
+            "Oxygen",
+            "Hydrogen",
+            "Carbon Dioxide",
+            "Nitrogen"
+        ],
+        "correct_answer": "Nitrogen"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "answers": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Platinum"
+        ],
+        "correct_answer": "Diamond"
+    },
+    {
+        "question": "Which planet is closest to the sun?",
+        "answers": [
+            "Earth",
+            "Venus",
+            "Mercury",
+            "Mars"
+        ],
+        "correct_answer": "Mercury"
+    },
+    {
+        "question": "In which year did the Titanic sink?",
+        "answers": [
+            "1912",
+            "1905",
+            "1920",
+            "1898"
+        ],
+        "correct_answer": "1912"
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "answers": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "O2"
+        ],
+        "correct_answer": "H2O"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "answers": [
+            "Marie Curie",
+            "Alexander Fleming",
+            "Albert Einstein",
+            "Isaac Newton"
+        ],
+        "correct_answer": "Alexander Fleming"
+    },
+    {
+        "question": "What is the smallest unit of matter?",
+        "answers": [
+            "Molecule",
+            "Atom",
+            "Electron",
+            "Proton"
+        ],
+        "correct_answer": "Atom"
+    },
+    {
+        "question": "What is the main ingredient in traditional Japanese miso soup?",
+        "answers": [
+            "Chicken",
+            "Soybean Paste",
+            "Fish",
+            "Tofu"
+        ],
+        "correct_answer": "Soybean Paste"
+    },
+    {
+        "question": "Who wrote '1984'?",
+        "answers": [
+            "George Orwell",
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "Jules Verne"
+        ],
+        "correct_answer": "George Orwell"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "answers": [
+            "Saturn",
+            "Jupiter",
+            "Uranus",
+            "Neptune"
+        ],
+        "correct_answer": "Jupiter"
+    },
+    {
+        "question": "What is the process by which plants make their food?",
+        "answers": [
+            "Photosynthesis",
+            "Respiration",
+            "Transpiration",
+            "Fermentation"
+        ],
+        "correct_answer": "Photosynthesis"
+    },
+    {
+        "question": "Which country is the largest by land area?",
+        "answers": [
+            "Canada",
+            "China",
+            "United States",
+            "Russia"
+        ],
+        "correct_answer": "Russia"
+    },
+    {
+        "question": "Who is the author of the Harry Potter series?",
+        "answers": [
+            "J.K. Rowling",
+            "J.R.R. Tolkien",
+            "George R.R. Martin",
+            "C.S. Lewis"
+        ],
+        "correct_answer": "J.K. Rowling"
+    },
+    {
+        "question": "What is the freezing point of water?",
+        "answers": [
+            "0 degrees Celsius",
+            "32 degrees Fahrenheit",
+            "Both of the above",
+            "None of the above"
+        ],
+        "correct_answer": "Both of the above"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "answers": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "correct_answer": "Canberra"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "answers": [
+            "Isaac Newton",
+            "Nikola Tesla",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ],
+        "correct_answer": "Albert Einstein"
+    },
+    {
+        "question": "What is the largest bone in the human body?",
+        "answers": [
+            "Femur",
+            "Humerus",
+            "Tibia",
+            "Fibula"
+        ],
+        "correct_answer": "Femur"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answers": [
+            "China",
+            "Japan",
+            "Korea",
+            "Thailand"
+        ],
+        "correct_answer": "Japan"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "answers": [
+            "Nucleus",
+            "Mitochondria",
+            "Ribosome",
+            "Chloroplast"
+        ],
+        "correct_answer": "Mitochondria"
+    },
+    {
+        "question": "Who painted the Sistine Chapel ceiling?",
+        "answers": [
+            "Michelangelo",
+            "Raphael",
+            "Leonardo da Vinci",
+            "Donatello"
+        ],
+        "correct_answer": "Michelangelo"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "answers": [
+            "Monaco",
+            "Vatican City",
+            "San Marino",
+            "Liechtenstein"
+        ],
+        "correct_answer": "Vatican City"
+    },
+    {
+        "question": "What is the most widely spoken language in the world?",
+        "answers": [
+            "Spanish",
+            "English",
+            "Hindi",
+            "Mandarin Chinese"
+        ],
+        "correct_answer": "Mandarin Chinese"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "answers": [
+            "Amazon River",
+            "Nile River",
+            "Yangtze River",
+            "Mississippi River"
+        ],
+        "correct_answer": "Nile River"
+    },
+    {
+        "question": "What is the primary ingredient in guacamole?",
+        "answers": [
+            "Tomato",
+            "Onion",
+            "Avocado",
+            "Pepper"
+        ],
+        "correct_answer": "Avocado"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answers": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "John Adams"
+        ],
+        "correct_answer": "George Washington"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+            "Ag",
+            "Au",
+            "Pb",
+            "Fe"
+        ],
+        "correct_answer": "Au"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "answers": [
+            "Elephant",
+            "Blue Whale",
+            "Great White Shark",
+            "Giraffe"
+        ],
+        "correct_answer": "Blue Whale"
+    },
+    {
+        "question": "Which country hosted the 2016 Summer Olympics?",
+        "answers": [
+            "China",
+            "Brazil",
+            "United Kingdom",
+            "Russia"
+        ],
+        "correct_answer": "Brazil"
+    },
+    {
+        "question": "What is the main component of the sun?",
+        "answers": [
+            "Helium",
+            "Carbon",
+            "Oxygen",
+            "Hydrogen"
+        ],
+        "correct_answer": "Hydrogen"
+    },
+    {
+        "question": "Who is known as the Father of Computers?",
+        "answers": [
+            "Bill Gates",
+            "Charles Babbage",
+            "Alan Turing",
+            "Steve Jobs"
+        ],
+        "correct_answer": "Charles Babbage"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "answers": [
+            "90 degrees Celsius",
+            "100 degrees Celsius",
+            "110 degrees Celsius",
+            "120 degrees Celsius"
+        ],
+        "correct_answer": "100 degrees Celsius"
+    },
+    {
+        "question": "Which famous scientist introduced the idea of natural selection?",
+        "answers": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Charles Darwin",
+            "Marie Curie"
+        ],
+        "correct_answer": "Charles Darwin"
+    },
+    {
+        "question": "What is the largest continent on Earth?",
+        "answers": [
+            "Africa",
+            "Asia",
+            "North America",
+            "Europe"
+        ],
+        "correct_answer": "Asia"
+    },
+    {
+        "question": "Which instrument measures atmospheric pressure?",
+        "answers": [
+            "Thermometer",
+            "Barometer",
+            "Anemometer",
+            "Hygrometer"
+        ],
+        "correct_answer": "Barometer"
+    },
+    {
+        "question": "Who was the first man to step on the moon?",
+        "answers": [
+            "Yuri Gagarin",
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Michael Collins"
+        ],
+        "correct_answer": "Neil Armstrong"
+    },
+    {
+        "question": "What is the most abundant gas in the Earth's atmosphere?",
+        "answers": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Argon"
+        ],
+        "correct_answer": "Nitrogen"
+    },
+    {
+        "question": "Which country is the smallest in terms of land area?",
+        "answers": [
+            "Monaco",
+            "Nauru",
+            "San Marino",
+            "Vatican City"
+        ],
+        "correct_answer": "Vatican City"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "answers": [
+            "Nucleus",
+            "Mitochondria",
+            "Ribosome",
+            "Chloroplast"
+        ],
+        "correct_answer": "Mitochondria"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "answers": [
+            "Yuan",
+            "Won",
+            "Yen",
+            "Dollar"
+        ],
+        "correct_answer": "Yen"
+    },
+    {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "answers": [
+            "Charlotte Bronte",
+            "Jane Austen",
+            "Emily Bronte",
+            "Mary Shelley"
+        ],
+        "correct_answer": "Jane Austen"
+    }
+]
